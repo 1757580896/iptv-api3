@@ -1,5 +1,5 @@
 https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
-https://raw.githubusercontent.com/sunjiana/iptv-api2/master/output/result.m3u
+https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt #collect-tv-txt有有效ipv6源但不知道为啥我的排序没有
