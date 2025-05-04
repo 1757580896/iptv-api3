@@ -2,7 +2,7 @@ https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
 https://raw.githubusercontent.com/sunjiana/iptv-api2/master/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt #collect-tv-txt有有效ipv6源但不知道为啥我的排序没有
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
@@ -49,14 +49,14 @@ https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.m3u
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/others_output.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/my-tv1/TVauto/Files/Adult.m3u
 https://raw.githubusercontent.com/my-tv1/TVauto/Files/CCTV.m3u
 https://raw.githubusercontent.com/my-tv1/TVauto/Files/CNTV.m3u
@@ -210,29 +210,29 @@ https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
 https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧歌源码地址
-# https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv 欧歌直接解密可以直接看到的
+ https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv 欧歌直接解密可以直接看到的
 # https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  我不是摸鱼儿已经加密了
 # https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live 不知道的，但链接有效
 # https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
-# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/4K.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/AKTV.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AAsports.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A1.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt
+https://raw.githubusercontent.com/my-tv1//main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A1.txt
+https://raw.githubusercontent.com/my-tv1//main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E6%BA%90.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%84%BF%E7%AB%A5%E4%B8%93%E4%BA%AB.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%8F%B0%E6%B9%BE%E5%8F%B0.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%AE%9A%E5%88%B6%E6%BA%90.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt
+https://raw.githubusercontent.com/my-tv1//main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%AE%9A%E5%88%B6%E6%BA%90.txt
+https://raw.githubusercontent.com/my-tv1//main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E7%94%B5%E8%A7%86%E5%89%A7.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
