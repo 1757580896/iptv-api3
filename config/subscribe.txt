@@ -245,3 +245,6 @@ https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
 https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/result.txt
 https://raw.githubusercontent.com/sunjiana/ds/main/tvlist.txt
 https://raw.githubusercontent.com/sunjiana/ds/main/ds.txt
+https://raw.githubusercontent.com/sunjiana/ds/main/da.txt
+https://raw.githubusercontent.com/sunjiana/ds//main/news.txt
+https://raw.githubusercontent.com/sunjiana/iptv-api2/master/output/result.m3u
