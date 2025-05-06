@@ -1,4 +1,10 @@
-https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt   #https://1.v.nxog.top/m/tv/ou.txt # 欧cctv源 费 源码
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou2.txt
+https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/ipv4/result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/ipv6/result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/user_result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/ou.txt
+
 https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
@@ -209,8 +215,9 @@ https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV-tvbox.txt
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
-https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧歌源码地址
- https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv 欧歌直接解密可以直接看到的
+# https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧源码地址 换了
+https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv 欧直接解密可以直接看到的
+https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
 # https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  我不是摸鱼儿已经加密了
 # https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live 不知道的，但链接有效
 # https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了
