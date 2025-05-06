@@ -251,3 +251,4 @@ https://raw.githubusercontent.com/sunjiana/iptv-api2/master/output/result.m3u
 https://raw.githubusercontent.com/sunjiana/ds/main/ZHGXTV.txt
 https://raw.githubusercontent.com/sunjiana/ds/main/ZHGXTV1.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B9%BF%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E6%BA%90.m3u
+https://raw.githubusercontent.com/1757580896/tt1/main/itvlist.m3u
