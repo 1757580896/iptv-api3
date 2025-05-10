@@ -287,3 +287,7 @@ https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E9%87%8D%E5%BA
 https://raw.githubusercontent.com/sunjiana/tvlist/main/iptv_merged_output.txt
 https://raw.githubusercontent.com/sunjiana/tvlist/main/ipv6.m3u
 https://raw.githubusercontent.com/sunjiana/tvlist/main/live.txt
+
+# https://github.com/zht298/yingshi 的地址
+https://raw.githubusercontent.com/zht298/yingshi/master/output/result.m3u
+https://raw.githubusercontent.com/zht298/yingshi/master/output/user_result.txt
