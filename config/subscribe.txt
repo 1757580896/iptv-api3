@@ -1,9 +1,15 @@
-https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt   #https://1.v.nxog.top/m/tv/ou.txt # 欧cctv源 费 源码
-https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou2.txt
-https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/ipv4/result.m3u
-https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/ipv6/result.m3u
-https://raw.githubusercontent.com/ouhaibo1980/TV/master/output/user_result.m3u
-https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/ou.txt
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt # 欧cctv源
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81PLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+# https://tv.iill.top/m3u/Gather  只能直接使用，验证信息id太多了
+https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # https://xn--6ni-mf3g9f.v.nxog.top/m/tv/ 欧歌
+https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
+
+
 
 https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
