@@ -4,6 +4,8 @@ https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
 https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u #888
 https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u # PLtV
 
+https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u%20#%20PltV%20v6
+
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt   #https://1.v.nxog.top/m/tv/ou.txt # 欧cctv源 费 源码  tvbox又变了
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou2.txt 
 https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/ipv4/result.m3u
