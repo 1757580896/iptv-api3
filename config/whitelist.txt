@@ -4,6 +4,7 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
 https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
+https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u%20#%20PltV%20v6
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt #欧cctv
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
