@@ -3,6 +3,9 @@ https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
 https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
 https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u #888
 https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u # PLtV
+https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
+
+https://raw.githubusercontent.com/1757580896/df/main/iptv_list.txt
 
 https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u
 
