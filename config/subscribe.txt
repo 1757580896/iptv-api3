@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
 
 https://raw.githubusercontent.com/1757580896/df/main/iptv_list.txt
 
+https://raw.githubusercontent.com/sunbox1/tv/main/processed_itvlist.txt # 修改itvlist.txt ttv
+
 https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u
 
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt   #https://1.v.nxog.top/m/tv/ou.txt # 欧cctv源 费 源码  tvbox又变了
