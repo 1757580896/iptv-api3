@@ -5,6 +5,7 @@
 https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
 https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
 https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
+https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u #liao ning
 
 # https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u%20#%20PltV%20v6
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt #欧cctv
