@@ -22,3 +22,4 @@ cdn.iptv8k.top
 iptv.diyp.tech
 serv00.bkpcp.top
 php.jdshipin.com
+api.mytv666.top
