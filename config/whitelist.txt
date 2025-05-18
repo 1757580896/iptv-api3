@@ -9,8 +9,10 @@ https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
 https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u 
 
 # https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u%20#%20PltV%20v6
-https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt #欧cctv
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
+ #欧cctv
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt
+ # 解
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://ghfast.top/raw.githubusercontent.com//1757580896/my-iptv/main/IPTV-ipv4.m3u
