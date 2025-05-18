@@ -12,8 +12,8 @@ https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u
 https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
 
 https://raw.githubusercontent.com/1757580896/df/main/iptv_list.txt
-
-https://raw.githubusercontent.com/sunbox1/tv/main/processed_itvlist.txt # 修改itvlist.txt ttv
+# 修改itvlist.txt ttv
+https://raw.githubusercontent.com/sunbox1/tv/main/processed_itvlist.txt 
 
 https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u
 
