@@ -28,7 +28,8 @@ https://6758.kstore.space/666.txt
 https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt #collect-tv-txt有有效ipv6源但不知道为啥我的排序没有
+#collect-tv-txt有有效ipv6源但不知道为啥我的排序没有
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
