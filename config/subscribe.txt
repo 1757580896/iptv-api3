@@ -352,9 +352,13 @@ https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
 # https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧源码地址 换了
- # 欧直接解密可以直接看到的
-https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv
-https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
+  # 欧歌直接解密可以直接看到的
+#这个没1现在用不了
+# https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv 
+# 套娃整理一下原本是 https://py.nxog.top/zm/api/jm/api.php?ou=https://tv.nxog.top/m/tv/1 就是 https://xn--6ni-mf3g9f.nxog.top/zm/api/jm/api.php?ou=https://tv.nxog.top/m/tv/1 自己解
+https://ua.fongmi.eu.org/box.php?url=https://py.nxog.top/zm/api/jm/api.php?ou=https://xn--dkw0c.v.nxog.top/m/tv/1
+# https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
+# https://ua.fongmi.eu.org/box.php?url=https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
 # https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  我不是摸鱼儿已经加密了
 # https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live 不知道的，但链接有效
 # https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了
