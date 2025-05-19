@@ -427,3 +427,12 @@ https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E9%87%8D%E5%BA
 https://raw.githubusercontent.com/sunjiana/tvlist/main/iptv_merged_output.txt
 https://raw.githubusercontent.com/sunjiana/tvlist/main/ipv6.m3u
 https://raw.githubusercontent.com/sunjiana/tvlist/main/live.txt
+
+# 一堆混合88
+https://raw.githubusercontent.com/boossu/along/fd765e720213dbc492339d991e931a7e654d948b/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B6%E5%92%8C%E7%9B%B4%E6%92%AD/%E8%B6%85%E7%BA%A7%E7%9B%B4%E6%92%AD.txt
+# 月光宝盒
+https://ygbh.site/bh.txt
+# 野火LIVE
+https://pastebin.com/raw/V0BhYHF4
+# 易看电视 heilong bei 8888888
+http://117.72.68.25:9230/latest.txt
