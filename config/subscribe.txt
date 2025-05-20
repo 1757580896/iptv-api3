@@ -463,3 +463,7 @@ http://dd.rihou.cc:555/gggg.nzk
 
 https://raw.githubusercontent.com/zhsohu88/yingshi/3d36b8c2651673c5d25c1541329dcc42818d68ca/output/user_result.txt
 https://raw.githubusercontent.com/zhsohu88/maoTV/main/output.txt
+# 港   澳 keyong
+https://raw.githubusercontent.com/cxr9912/cxr2025/57650754640307ba651a0c0c2b230088386c95c8/my.txt
+# 港   澳 wai keyong 列 
+https://raw.githubusercontent.com/bharing19/List1/main/1
