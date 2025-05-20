@@ -433,6 +433,7 @@ https://raw.githubusercontent.com/boossu/along/fd765e720213dbc492339d991e931a7e6
 # 月光宝盒
 https://ygbh.site/bh.txt
 # 野火LIVE
-https://pastebin.com/raw/V0BhYHF4
+# https://pastebin.com/raw/V0BhYHF4
+https://raw.githubusercontent.com/my-tv1/-replace/main/modified_file.txt
 # 易看电视 heilong bei 8888888
 http://117.72.68.25:9230/latest.txt
