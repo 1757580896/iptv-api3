@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BR
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://ghfast.top/raw.githubusercontent.com//1757580896/my-iptv/main/IPTV-ipv4.m3u
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81PLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
+https://raw.githubusercontent.com/1757580896/gangao/main/result.m3u
