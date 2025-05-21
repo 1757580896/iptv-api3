@@ -468,3 +468,7 @@ https://raw.githubusercontent.com/zhsohu88/maoTV/main/output.txt
 https://raw.githubusercontent.com/cxr9912/cxr2025/main/my.txt
 # 港   澳 wai keyong 列 
 https://raw.githubusercontent.com/bharing19/List1/main/1
+# 处li
+https://raw.githubusercontent.com/1757580896/add/main/processed_url1.txt
+https://raw.githubusercontent.com/1757580896/add/main/processed_url2.txt
+
